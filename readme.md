@@ -1,6 +1,6 @@
 # Remember
-Generally for the Outer layout of a webpage use grid in tailwind css.
-For Inner layouts usr flexbox.
+Generally for the Outer layout of a webpage use grid in tailwind css. <br />
+For Inner layouts use flexbox.
 
 <h3>Usefull links:</h3>
 <ul>
