@@ -9,7 +9,6 @@ For Inner layouts use flexbox.
 </ul>
 
 ## Fun with Tailwind
-<ul>
   <h4>Youtube video link</h4>
   <p>https://youtu.be/s2p3AxNXwsE?si=pbBwRQFt_Wkq1rE9</p>
-</ul>
+
