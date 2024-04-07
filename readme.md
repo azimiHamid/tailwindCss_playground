@@ -4,7 +4,7 @@ For Inner layouts use flexbox.
 
 ## Usefull links: Create any Layout
 <ul>
-  <li>Tailwinf playground: https://play.tailwindcss.com/kdQbMI9s4l</li>
+  <li>Tailwind playground: https://play.tailwindcss.com/kdQbMI9s4l</li>
   <li>YouTube Tutorial Link: https://youtu.be/eiRcOPiNoDs?si=waxcjFPm1UnmRAX8</li>
 </ul>
 
