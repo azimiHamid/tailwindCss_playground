@@ -1,30 +1,25 @@
-
 <!-- Playing arround with Tailwind Css -->
 
-
-<!-- <div class="grid gap-3 m-3 grid-cols-2">
-  <div class="min-h-[100px] bg-orange-500 shadow-lg rounded-xl"></div>
-  <div class="min-h-[100px] bg-teal-500 shadow-lg rounded-xl"></div>
-</div> -->
+<div class="m-3 grid grid-cols-2 gap-3 sm:grid-cols-12">
+  <div class="flex min-h-[100px] items-center justify-center rounded-xl bg-orange-500 shadow-lg sm:col-span-3">Logo</div>
+  <div class="flex min-h-[100px] items-center justify-center rounded-xl bg-teal-500 shadow-lg sm:col-span-9">Navbar</div>
+</div>
 
 <!-- <div class="grid gap-4 m-4 sm:grid-cols-3">
-  <div class="min-h-[100px] bg-orange-500 shadow-lg rounded-xl"></div>
-  <div class="min-h-[100px] bg-teal-500 shadow-lg rounded-xl"></div>
-  <div class="min-h-[100px] bg-red-500 shadow-lg rounded-xl"></div>
+  <div class="min-h-[200px] bg-orange-500 shadow-lg rounded-xl"></div>
+  <div class="h-[300px] bg-teal-500 shadow-lg rounded-xl"></div>
+  <div class="min-h-[200px] bg-red-500 shadow-lg rounded-xl"></div>
 </div> -->
 
-
-<!-- <div class="grid gap-4 m-4 sm:grid-cols-12">
-  <div class="min-h-[100px] bg-orange-500 shadow-lg rounded-xl sm:col-span-2"></div>
-  <div class="min-h-[100px] bg-teal-500 shadow-lg rounded-xl sm:col-span-8"></div>
-  <div class="min-h-[100px] bg-red-500 shadow-lg rounded-xl sm:col-span-2"></div>
+<!-- <div class="m-4 grid gap-4 sm:grid-cols-12">
+  <div class="min-h-[100px] rounded-xl bg-orange-500 shadow-lg text-center sm:col-span-2">LEFT</div>
+  <div class="min-h-[100px] rounded-xl bg-teal-500 shadow-lg text-center sm:col-span-8">CENTER</div>
+  <div class="min-h-[100px] rounded-xl bg-red-500 shadow-lg text-center sm:col-span-2">RIGHT</div>
 </div> -->
-
-
 
 <!-- Twitter Layout -->
-<div class="grid gap-4 m-4 sm:grid-cols-12">
-  <div class="min-h-[100px] bg-orange-500 shadow-lg rounded-xl sm:col-span-2 hidden sm:block"></div>
-  <div class="min-h-[100px] bg-teal-500 shadow-lg rounded-xl sm:col-span-8 text-center text-white sm:text-6xl text-4xl">Main Content</div>
-  <div class="min-h-[100px] bg-red-500 shadow-lg rounded-xl sm:col-span-2 hidden sm:block"></div>
+<div class="m-4 grid gap-4 sm:grid-cols-12">
+  <div class="hidden min-h-[100px] rounded-xl bg-orange-500 shadow-lg sm:col-span-2 sm:flex sm:items-center sm:justify-center">LEFT</div>
+  <div class="min-h-[100px] rounded-xl bg-teal-500 text-center text-4xl text-white shadow-lg sm:col-span-8 sm:text-6xl">Main Content</div>
+  <div class="hidden min-h-[100px] rounded-xl bg-red-500 shadow-lg sm:col-span-2 sm:flex sm:items-center sm:justify-center">RIGHT</div>
 </div>
