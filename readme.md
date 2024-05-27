@@ -1,6 +1,5 @@
 # Remember
-Generally for the Outer layout of a webpage use grid in tailwind css. <br />
-For Inner layouts use flexbox.
+In Tailwind It's better to use <br /> grid for the outer layout of the webpages, <br /> and flexbox for the inner layouts.
 
 ## Usefull links: Create any Layout
 <ul>
